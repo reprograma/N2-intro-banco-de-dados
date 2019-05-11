@@ -1,4 +1,4 @@
-# N2-banco-dados
+# N2-intro-banco-de-dados
 Semana 9 - Introdução a Banco de Dados
 
 ## Objetivo
