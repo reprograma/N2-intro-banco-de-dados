@@ -2,7 +2,7 @@
 Semana 9 - Introdução a Banco de Dados
 
 ## Objetivo
-Nessa semana vamos entender o que é um banco de dados, aprender quais são os principais tipos de bancos de dados (Relacional e Não relacional) e começar a mexer com o MongoDB, manipulando dados nele pela ferramenta Robo 3T e também pela linha de comando.
+Nessa semana vamos entender o que é um banco de dados, aprender quais são os principais tipos de bancos de dados (Relacional e Não relacional). Vamos criar nosso primeiro banco de dados em MongoDB, manipulando dados nele pela ferramenta Robo 3T e também pela linha de comando.
 
 ## Materiais
 - [Material de estudo](https://docs.google.com/document/d/17UNEPcgju71FXDFrr-RKt7ZdTRvTLwc_FGpaQVDL6wM/edit?usp=sharing)
