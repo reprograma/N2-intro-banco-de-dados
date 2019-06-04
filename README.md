@@ -11,7 +11,7 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 
 ## Links úteis
 - [Nosso DontPad para compartilhar links ao vivo](http://dontpad.com/lovemongodb)
-- [Nosso Sli.do para postar dúvidas](http://sli.do/reprograma-n2-s9)
+- [Nosso DontPad para postar dúvidas](http://dontpad.com/socorromongodb)
 - [Documentação MongoDB](https://docs.mongodb.com/manual/crud/)
 
 
