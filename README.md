@@ -15,3 +15,16 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 - [Documentação MongoDB](https://docs.mongodb.com/manual/crud/)
 
 
+## Recaptulando
+### Segunda-feira
+- Aprendemos sobre banco de dados SQL (Relacional) e NoSQL (Não Relacional)
+- O relacional tem tabelas com linhas e colunas
+- O não relacional tem documentos dentro de coleções (collections)
+- Instalamos o MongoDB (criamos a pastinha C:/data/db) e o Robo 3T
+- Criamos uma conexão com o MongoDB local na porta 27017 (que é a porta padrão do mongodb)
+- Criamos um database reprograma, e uma collection chamada aluna
+- Inserimos nossa primeira aluna 
+- BSON - o mongo transforma nossos documentos em JSON em formato BSON para armazenar de forma comprimida
+- Não temos mais o id, temos _id, que é do tipo ObjectId
+- Podemos inserir datas no nosso JSON
+- CRUD - Create (POST), Retrieve (read) (GET), Update(PUT ou PATCH), Delete (DELETE)
